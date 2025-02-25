@@ -44,7 +44,7 @@ Coming soon...
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2022.09* Tongji University Excellent Undergraduate Scholarship.
+- *2022.09* Scholarship for Outstanding Students, Tongji University.
 
 # 📖 Educations
 - *2021.09 - Present*,  Undergraduate student, Tongji University.
