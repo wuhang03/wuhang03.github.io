@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hi there! My name is Hang Wu, you can call me by my English name Laurent.
+Hi there! My name is Hang Wu, you can also call me by my English name Laurent.
 
 I am currently a senior student majoring in Software Engineering at Tongji University. My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. During my undergraduate studies, I also worked on image processing tasks in the low-level vision field.
 
