@@ -20,7 +20,7 @@ Hi there! My name is Hang Wu, you can also call me by my English name Laurent.
 
 I am currently a senior student majoring in Software Engineering at Tongji University. My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. During my undergraduate studies, I also worked on image processing tasks in the low-level vision field.
 
-During my undergraduate studies, I had the privilege of joining Ni's group at the School of Computer Science and Technology, Tongji University, as a research intern. Under Prof. [Zhangkai Ni](https://eezkni.github.io/)'s guidance, I focused on research in the low-level vision field, primarily image processing and High Dynamic Range (HDR) reconstruction. Recently, I joined the UC Merced NLP Lab as a research intern, where I am working under the guidance of Prof. [Yiwei Wang](https://wangywust.github.io/) on vision-language models.
+During my undergraduate studies, I had the privilege of joining Ni's group at the School of Computer Science and Technology, Tongji University, as a research intern. Under Prof. [Zhangkai Ni](https://eezkni.github.io/)'s mentorship, I focused on research in the low-level vision field, primarily image processing and High Dynamic Range (HDR) reconstruction. Recently, I joined the UC Merced NLP Lab as a research intern, where I am working under the mentorship of Prof. [Yiwei Wang](https://wangywust.github.io/) on vision-language models.
 
 You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tjqro_JbiiftOFt2t6EiVHtf3ulZTjbL/view?usp=drive_link). If you are interested in my work, please feel free to drop me an email.
 
