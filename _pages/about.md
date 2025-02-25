@@ -56,6 +56,22 @@ Coming soon...
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
+# 📚 Projects 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/project1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Research on Perception-oriented High Dynamic Range Imaging Systems]()
+
+[**Project**]() | <strong>National-level Innovation Project</strong>
+-  We treat artifacts in HDR images as detectable entities, explicitly detect and suppress them to enhance HDR quality.
+-  National-level innovation project at Tongji University, with a funding of 10,000 RMB.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/project4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 # 💻 Internships
 - *2025.01 - Present*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - Present*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
