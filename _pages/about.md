@@ -20,6 +20,8 @@ Hi there! My name is Hang Wu, you can also call me by my English name Laurent.
 
 I am currently a senior student majoring in Software Engineering at Tongji University. My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. During my undergraduate studies, I also worked on image processing tasks in the low-level vision field.
 
+You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tjqro_JbiiftOFt2t6EiVHtf3ulZTjbL/view?usp=drive_link). If you are interested in my work, please feel free to drop me an [email](wuh492465@gmail.com).
+
 
 # 🔥 News
 - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025!
