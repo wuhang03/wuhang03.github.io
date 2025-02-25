@@ -69,9 +69,6 @@ Coming soon...
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='../images/project4.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 # 💻 Internships
 - *2025.01 - Present*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - Present*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
