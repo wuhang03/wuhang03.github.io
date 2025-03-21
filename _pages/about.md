@@ -26,7 +26,9 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025!
+- *2025.03*: Join Vivo as an assistant NLP engineer!
+- *2024.11*: One paper submitted to CVPR 2025!
+<!-- - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025! -->
 
 # 📝 Publications 
 Coming soon...
@@ -70,5 +72,6 @@ Coming soon...
 </div>
 
 # 💻 Internships
+- *2025.03 - Present*, Assistant NLP Engineer, Vivo@Shenzhen, China.
 - *2025.01 - Present*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
-- *2023.09 - Present*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
+- *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
