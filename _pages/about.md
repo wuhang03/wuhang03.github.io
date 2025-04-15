@@ -26,6 +26,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 
 # 🔥 News
+- *2025.04*: Thrilled to accept Ph.D offer from UC Merced. Looking forward to working and living in CA!
 - *2025.03*: Join Vivo as an assistant NLP engineer!
 - *2024.11*: One paper submitted to CVPR 2025!
 <!-- - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025! -->
