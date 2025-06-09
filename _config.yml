@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hang Wu"
-description              : "Incoming PhD student at UC Merced."
+title                    : "University of California, Merced"
+description              : "Incoming PhD student."
 repository               : "wuhang03/wuhang03.github.io"
 google_scholar_stats_use_cdn : true
 
