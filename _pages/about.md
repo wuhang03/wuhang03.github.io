@@ -33,7 +33,13 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2025</div><img src='images/DiMo-GUI.jpg' alt="sym" width="70%"></div></div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Arxiv 2025</div>
+      <img src='images/DiMo-GUI.jpg' alt="sym" width="75%" style="display: block; margin: 0 auto;">
+    </div>
+  </div>
 <div class='paper-box-text' markdown="1">
 
 [DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](https://wuhang03.github.io/DiMo-GUI-homepage/)
@@ -52,7 +58,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 - *2022.09* Scholarship for Outstanding Students, Tongji University.
 
 # 📖 Educations
-- *2025.08 - Present*,  PhD studeng, University of California, Merced.
+- *2025.08 - Present*,  PhD student, University of California, Merced.
 - *2021.09 - 2025.6*,  Undergraduate student, Tongji University.
 
 <!-- 
