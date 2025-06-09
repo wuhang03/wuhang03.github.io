@@ -36,7 +36,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
     <div>
-      <div class="badge">Arxiv 2025</div>
+      <!-- <div class="badge">Arxiv 2025</div> -->
       <img src='images/DiMo-GUI.jpg' alt="sym" width="60%">
     </div>
   </div>
