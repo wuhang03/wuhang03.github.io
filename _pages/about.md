@@ -34,13 +34,13 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 # 📝 Publications 
 
 <div class='paper-box'>
-  <div class='paper-box-image'>
+  <div class='paper-box-image' style="text-align: center;">
     <div>
       <div class="badge">Arxiv 2025</div>
-      <img src='images/DiMo-GUI.jpg' alt="sym" width="75%" style="display: block; margin: 0 auto;">
+      <img src='images/DiMo-GUI.jpg' alt="sym" width="60%">
     </div>
   </div>
-<div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1">
 
 [DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](https://wuhang03.github.io/DiMo-GUI-homepage/)
 
