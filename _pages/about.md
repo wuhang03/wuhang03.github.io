@@ -40,7 +40,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 **Hang Wu**, Hongkai Chen$^{\dagger}$, Yujun Cai, Chang Liu, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
 
-[**Project**]() | <strong>Arxiv 2025</strong>
+<strong>Arxiv 2025</strong>
 - We propose DiMo-GUI, a training-free framework that can be seamlessly integrated as a plug-and-play component into any GUI agent.
 - Without requiring additional training or external data, DiMo-GUI effectively enhances grounding performance across various GUI tasks.
 </div>
