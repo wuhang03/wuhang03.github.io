@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hang Wu"
   avatar           : "images/profile.jpg"
-  bio              : "Tongji University"
-  location         : "Shanghai, China"
+  bio              : "University of California, Merced"
+  location         : "California, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"

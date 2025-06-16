@@ -59,7 +59,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 # 📖 Educations
 - *2025.08 - Present*,  PhD student, University of California, Merced.
-- *2021.09 - 2025.6*,  Undergraduate student, Tongji University.
+- *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
 
 <!-- 
 # 💬 Invited Talks
