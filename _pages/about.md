@@ -52,6 +52,25 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image' style="text-align: center;">
+    <div>
+      <!-- <div class="badge">Arxiv 2025</div> -->
+      <img src='images/structure.png' alt="sym" width="60%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[Structured Attention Matters to Multimodal LLMs in Document Understanding](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175086178.86227111/v1)
+
+Chang Liu， Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
+
+<strong>Arxiv 2025</strong>
+- Our work investigates a fundamental yet overlooked aspect: how input format influences document comprehension performance.
+- We propose a novel structurepreserving approach that encodes document elements using the LATEX paradigm, maintaining the hierarchical organization and spatial relationships critical for comprehension.
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
@@ -80,6 +99,6 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 </div>
 
 # 💻 Internships
-- *2025.03 - Present*, Assistant NLP Engineer, Vivo@Shenzhen, China.
+- *2025.03 - Present*, Assistant NLP Engineer, vivo@Shenzhen, China.
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
