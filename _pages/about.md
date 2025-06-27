@@ -18,17 +18,16 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi there! My name is Hang Wu (吴杭), you can also call me by my English name Laurent.
 
-I am currently an incoming PhD student at University of California, Merced. My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. During my undergraduate studies, I also worked on image processing tasks in the low-level vision field.
-
-During my undergraduate studies, I had the privilege of joining Ni's group at the School of Computer Science and Technology, Tongji University, as a research intern. Under Prof. [Zhangkai Ni](https://eezkni.github.io/)'s mentorship, I focused on research in the low-level vision field, primarily image processing and High Dynamic Range (HDR) reconstruction. Recently, I joined the UC Merced NLP Lab as a research intern, where I am working under the mentorship of Prof. [Yiwei Wang](https://wangywust.github.io/) on vision-language models.
+I am currently an incoming PhD student at the University of California, Merced, conducting research under the guidance of Prof. [Yiwei Wang](https://wangywust.github.io/), with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) as my senior advisor. Additionally, I work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field during my undergraduate studies.
 
 You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tjqro_JbiiftOFt2t6EiVHtf3ulZTjbL/view?usp=drive_link). If you are interested in my work, please feel free to drop me an email.
 
 
 # 🔥 News
+- *2025.05*: Two papers submitted to EMNLP 2025.
 - *2025.04*: Thrilled to accept Ph.D offer from UC Merced. Looking forward to working and living in CA!
-- *2025.03*: Join Vivo as an assistant NLP engineer!
-- *2024.11*: One paper submitted to CVPR 2025!
+- *2025.03*: Join vivo as a Research Intern!
+- *2024.11*: One paper submitted to CVPR 2025.
 <!-- - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025! -->
 
 # 📝 Publications 
@@ -63,7 +62,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 [Structured Attention Matters to Multimodal LLMs in Document Understanding](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175086178.86227111/v1)
 
-Chang Liu， Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
+Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
 
 <strong>Arxiv 2025</strong>
 - Our work investigates a fundamental yet overlooked aspect: how input format influences document comprehension performance.
@@ -99,6 +98,6 @@ Chang Liu， Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-
 </div>
 
 # 💻 Internships
-- *2025.03 - Present*, Assistant NLP Engineer, vivo@Shenzhen, China.
+- *2025.03 - Present*, Research Intern, vivo@Shenzhen, China.
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
