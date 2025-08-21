@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi there! My name is Hang Wu (吴杭), you can also call me by my English name Laurent.
 
-I am currently a PhD student at the University of California, Merced, conducting research under the guidance of Prof. [Yiwei Wang](https://wangywust.github.io/), with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) as my senior advisor. Additionally, I work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field during my undergraduate studies.
+I am currently a first-year PhD student at the University of California, Merced, conducting research under the guidance of Prof. [Yiwei Wang](https://wangywust.github.io/), with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) as my senior advisor. Additionally, I work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field.
 
-You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tjqro_JbiiftOFt2t6EiVHtf3ulZTjbL/view?usp=drive_link). If you are interested in my work, please feel free to drop me an email.
+You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tNOCYlOXXq9uFjwZmn2hUCbU-wdg_udY/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
 
 
 # 🔥 News
-- *2025.08*: 🎉🎉 Our paper DiMo-GUI is accepted to EMNLP 2025! See you in Suzhou!
+- *2025.08*: 🎉🎉 Our paper DiMo-GUI is accepted to EMNLP 2025 Main Conference! See you in Suzhou!
 - *2025.05*: Two papers submitted to EMNLP 2025.
 - *2025.04*: Thrilled to accept Ph.D offer from UC Merced. Looking forward to working and living in CA!
 - *2025.03*: Join vivo as a Research Intern!
@@ -46,7 +46,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 **Hang Wu**, Hongkai Chen$^{\dagger}$, Yujun Cai, Chang Liu, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
 
-<strong>EMNLP 2025</strong>
+<strong>EMNLP 2025 Main Conference</strong>
 - We propose DiMo-GUI, a training-free framework that can be seamlessly integrated as a plug-and-play component into any GUI agent.
 - Without requiring additional training or external data, DiMo-GUI effectively enhances grounding performance across various GUI tasks.
 </div>
@@ -99,6 +99,6 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 </div>
 
 # 💻 Internships
-- *2025.03 - Present*, Research Intern, vivo@Shenzhen, China.
+- *2025.03 - 2025.07*, Research Intern, vivo@Shenzhen, China.
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
