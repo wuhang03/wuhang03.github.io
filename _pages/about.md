@@ -72,9 +72,9 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 </div>
 
 
-
+<!-- 
 # 🎖 Honors and Awards
-- *2022.09* Scholarship for Outstanding Students, Tongji University.
+- *2022.09* Scholarship for Outstanding Students, Tongji University. -->
 
 # 📖 Educations
 - *2025.08 - Present*,  PhD student, University of California, Merced.
@@ -85,9 +85,6 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💬 Services
-Conference Reviewers
-- The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026
 
 # 📚 Projects 
 
@@ -106,3 +103,7 @@ Conference Reviewers
 - *2025.03 - 2025.07*, Research Intern, vivo@Shenzhen, China.
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
+
+# 💬 Services
+** Conference Reviewers **
+- The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026
