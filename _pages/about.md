@@ -24,7 +24,8 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 
 # 🔥 News
-- *2025.08*: 🎉🎉 Our paper DiMo-GUI is accepted to EMNLP 2025 Main Conference! See you in Suzhou!
+- *2025.08*: 🎉🎉 Our paper DiMo-GUI has been accepted to EMNLP 2025 Main Conference! See you in Suzhou!
+- *2025.08*: Officially join UC Merced NLP Lab and start my PhD journey.
 - *2025.05*: Two papers submitted to EMNLP 2025.
 - *2025.04*: Thrilled to accept Ph.D offer from UC Merced. Looking forward to working and living in CA!
 - *2025.03*: Join vivo as a Research Intern!
@@ -76,7 +77,7 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 # 🎖 Honors and Awards
 - *2022.09* Scholarship for Outstanding Students, Tongji University. -->
 
-# 📖 Educations
+# 🎓 Educations
 - *2025.08 - Present*,  PhD student, University of California, Merced.
 - *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
 
@@ -93,7 +94,7 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 
 [Research on Perception-oriented High Dynamic Range Imaging Systems]()
 
-[**Project**]() | <strong>National-level Innovation Project</strong>
+<strong>National-level Innovation Project</strong>
 -  We treat artifacts in HDR images as detectable entities, explicitly detect and suppress them to enhance HDR quality.
 -  National-level innovation project at Tongji University, with a funding of 10,000 RMB.
 </div>
@@ -104,6 +105,10 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
 
-# 💬 Services
-<strong>Conference Reviewers</strong>
+# 📖 Services
+<strong>Conference Reviewer</strong>
 - The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026
+
+
+<strong>Teaching</strong>
+- CSE-022: Introduction to Programming, Teaching Assistant (Fall 2025, UC Merced).
