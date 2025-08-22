@@ -105,5 +105,5 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
 
 # 💬 Services
-** Conference Reviewers **
+<strong>Conference Reviewers</strong>
 - The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026
