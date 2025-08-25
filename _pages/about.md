@@ -81,6 +81,11 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 - *2025.08 - Present*,  PhD student, University of California, Merced.
 - *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
 
+# 💻 Internships
+- *2025.03 - 2025.07*, Research Intern, vivo@Shenzhen, China.
+- *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
+- *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
+
 <!-- 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -100,10 +105,6 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 </div>
 </div>
 
-# 💻 Internships
-- *2025.03 - 2025.07*, Research Intern, vivo@Shenzhen, China.
-- *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
-- *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
 
 # 📖 Services
 <strong>Conference Reviewer</strong>
@@ -112,3 +113,10 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 
 <strong>Teaching</strong>
 - CSE-022: Introduction to Programming, Teaching Assistant (Fall 2025, UC Merced).
+
+# 🎨 About Me
+
+- I'm ESFJ. 
+- I come from Maanshan, Anhui Province, China.
+- I'm a huge sports fan and enjoy doing many kinds of sports in my spare time, including basketball🏀, soccer⚽️, waterpolo🤽‍♂️, swimming🏊, badminton🏸...
+- I love pop music and R&B, with Ed Sheeran and The Weeknd as my favorite English artists, David Tao and Khalil Fong as my favorite Chinese artists.
