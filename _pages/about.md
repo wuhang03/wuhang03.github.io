@@ -24,10 +24,10 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 
 # 🔥 News
-- *2025.08*: 🎉🎉 Our paper DiMo-GUI has been accepted to EMNLP 2025 Main Conference! See you in Suzhou!
+- *2025.08*: 🎉🎉 Our paper DiMo-GUI has been accepted to EMNLP 2025 Main Conference!
 - *2025.08*: Officially join UC Merced NLP Lab and start my PhD journey.
 - *2025.05*: Two papers submitted to EMNLP 2025.
-- *2025.04*: Thrilled to accept Ph.D offer from UC Merced. Looking forward to working and living in CA!
+- *2025.04*: Thrilled to accept PhD offer from UC Merced. Looking forward to working and living in CA!
 - *2025.03*: Join vivo as a Research Intern!
 - *2024.11*: One paper submitted to CVPR 2025.
 <!-- - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025! -->
