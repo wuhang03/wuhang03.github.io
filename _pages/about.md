@@ -24,15 +24,59 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 
 # 🔥 News
+- *2025.09*: Three papers submitted to ICLR 2026.
 - *2025.08*: 🎉🎉 Our paper DiMo-GUI has been accepted to EMNLP 2025 Main Conference!
 - *2025.08*: Officially join UC Merced NLP Lab and start my PhD journey.
 - *2025.05*: Two papers submitted to EMNLP 2025.
 - *2025.04*: Thrilled to accept PhD offer from UC Merced. Looking forward to working and living in CA!
 - *2025.03*: Join vivo as a Research Intern!
 - *2024.11*: One paper submitted to CVPR 2025.
-<!-- - *2024.11*: &nbsp;🎉🎉 One paper submitted to CVPR 2025! -->
 
 # 📝 Publications 
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="text-align: center;">
+    <div>
+      <!-- <div class="badge">Arxiv 2025</div> -->
+      <img src='images/refineshot.png' alt="sym" width="60%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[RefineShot: Rethinking Cinematography Understanding with Foundational Skill Evaluation](https://www.arxiv.org/abs/2510.02423)
+
+
+**Hang Wu**, Yujun Cai, Haonan Ge, Hongkai Chen, Ming-Hsuan Yang, Yiwei Wang
+
+<strong>Arxiv 2025</strong>
+- Benchmark refinement: Enforces consistent option granularity, unified evaluation dimensions, and mutual exclusivity for greater dataset reliability.
+- Baseline analysis: Thoroughly evaluates ShotVL, revealing weaknesses in reasoning, prompt adherence, and output consistency.
+- Evaluation expansion: Adds a protocol assessing both task-specific performance and core model competencies, enabling more balanced and robust comparisons.
+</div>
+</div>
+
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="text-align: center;">
+    <div>
+      <!-- <div class="badge">Arxiv 2025</div> -->
+      <img src='images/framemind.png' alt="sym" width="60%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[FrameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](https://framemind.github.io/)
+
+
+Haonan Ge, Yiwei Wang, Kai-Wei Chang, **Hang Wu**, Yujun Cai
+
+<strong>Arxiv 2025</strong>
+- We introduce FiCOT, a reasoning paradigm enabling dynamic visual evidence gathering during inference.
+- We propose DRFS, a training methodology for learning adaptive sampling policies. We also develop DRFS-GRPO,anefficient reinforcement learning algorithm for training complex perception-reasoning policies from sparse rewards.
+</div>
+</div>
+
+
 
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
@@ -53,6 +97,9 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 </div>
 </div>
 
+
+
+
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
     <div>
@@ -61,6 +108,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
+
 
 [Structured Attention Matters to Multimodal LLMs in Document Understanding](https://www.techrxiv.org/doi/full/10.36227/techrxiv.175086178.86227111/v1)
 
