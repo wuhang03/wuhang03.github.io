@@ -46,7 +46,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 [RefineShot: Rethinking Cinematography Understanding with Foundational Skill Evaluation](https://www.arxiv.org/abs/2510.02423)
 
 
-**Hang Wu**, Yujun Cai, Haonan Ge, Hongkai Chen, Ming-Hsuan Yang, Yiwei Wang
+**Hang Wu**, Yujun Cai, Haonan Ge, Hongkai Chen, Ming-Hsuan Yang, Yiwei Wang$^{\dagger}$
 
 <strong>Arxiv 2025</strong>
 - Benchmark refinement: Enforces consistent option granularity, unified evaluation dimensions, and mutual exclusivity for greater dataset reliability.
@@ -68,7 +68,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 [FrameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](https://framemind.github.io/)
 
 
-Haonan Ge, Yiwei Wang, Kai-Wei Chang, **Hang Wu**, Yujun Cai
+Haonan Ge, Yiwei Wang, Kai-Wei Chang, **Hang Wu**, Yujun Cai$^{\dagger}$
 
 <strong>Arxiv 2025</strong>
 - We introduce FiCOT, a reasoning paradigm enabling dynamic visual evidence gathering during inference.
