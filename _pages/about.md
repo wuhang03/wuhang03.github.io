@@ -38,7 +38,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
   <div class='paper-box-image' style="text-align: center;">
     <div>
       <!-- <div class="badge">Arxiv 2025</div> -->
-      <img src='images/refineshot.png' alt="sym" width="120%">
+      <img src='images/refineshot.png' alt="sym" width="110%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -60,7 +60,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
   <div class='paper-box-image' style="text-align: center;">
     <div>
       <!-- <div class="badge">Arxiv 2025</div> -->
-      <img src='images/framemind.png' alt="sym" width="120%">
+      <img src='images/framemind.png' alt="sym" width="110%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
