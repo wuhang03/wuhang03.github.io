@@ -32,7 +32,16 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 - *2025.03*: Join vivo as a Research Intern!
 - *2024.11*: One paper submitted to CVPR 2025.
 
-# 📝 Publications 
+# 🎓 Educations
+- *2025.08 - Present*,  PhD student, University of California, Merced.
+- *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
+
+# 💻 Internships
+- *2025.03 - 2025.07*, Research Intern, vivo@Shenzhen, China.
+- *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
+- *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
+
+# 📝 Selected Publications 
 
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
@@ -56,25 +65,25 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 </div>
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
     <div>
-      <!-- <div class="badge">Arxiv 2025</div> -->
+      <div class="badge">Arxiv 2025</div>
       <img src='images/framemind.png' alt="sym" width="110%">
     </div>
   </div>
-  <div class='paper-box-text' markdown="1">
+  <div class='paper-box-text' markdown="1"> -->
 
-[FrameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](https://framemind.github.io/)
+<!-- [FrameMind: Frame-Interleaved Video Reasoning via Reinforcement Learning](https://framemind.github.io/) -->
 
 
-Haonan Ge, Yiwei Wang, Kai-Wei Chang, **Hang Wu**, Yujun Cai$^{\dagger}$
+<!-- Haonan Ge, Yiwei Wang, Kai-Wei Chang, **Hang Wu**, Yujun Cai$^{\dagger}$ -->
 
-<strong>Arxiv 2025</strong>
+<!-- <strong>Arxiv 2025</strong>
 - We introduce FiCOT, a reasoning paradigm enabling dynamic visual evidence gathering during inference.
 - We propose DRFS, a training methodology for learning adaptive sampling policies. We also develop DRFS-GRPO,anefficient reinforcement learning algorithm for training complex perception-reasoning policies from sparse rewards.
 </div>
-</div>
+</div> -->
 
 
 
@@ -100,10 +109,10 @@ Haonan Ge, Yiwei Wang, Kai-Wei Chang, **Hang Wu**, Yujun Cai$^{\dagger}$
 
 
 
-<div class='paper-box'>
+<!-- <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
     <div>
-      <!-- <div class="badge">Arxiv 2025</div> -->
+      <div class="badge">Arxiv 2025</div>
       <img src='images/structure.png' alt="sym" width="60%">
     </div>
   </div>
@@ -118,21 +127,13 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 - Our work investigates a fundamental yet overlooked aspect: how input format influences document comprehension performance.
 - We propose a novel structurepreserving approach that encodes document elements using the LATEX paradigm, maintaining the hierarchical organization and spatial relationships critical for comprehension.
 </div>
-</div>
+</div> -->
 
 
 <!-- 
 # 🎖 Honors and Awards
 - *2022.09* Scholarship for Outstanding Students, Tongji University. -->
 
-# 🎓 Educations
-- *2025.08 - Present*,  PhD student, University of California, Merced.
-- *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
-
-# 💻 Internships
-- *2025.03 - 2025.07*, Research Intern, vivo@Shenzhen, China.
-- *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
-- *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
 
 <!-- 
 # 💬 Invited Talks
@@ -156,15 +157,17 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 
 # 📖 Services
 <strong>Conference Reviewer</strong>
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
 - The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026
 
 
 <strong>Teaching</strong>
+- CSE 188: Natural Language Processing, Teaching Assistant (Spring 2026, UC Merced).
 - CSE-022: Introduction to Programming, Teaching Assistant (Fall 2025, UC Merced).
 
 # 🎨 About Me
 
 - I'm ESFJ. 
 - I come from Maanshan, Anhui Province, China.
-- I'm a huge sports fan and enjoy doing many kinds of sports in my spare time, including basketball🏀, soccer⚽️, waterpolo🤽‍♂️, swimming🏊, badminton🏸...
+- I'm a huge sports fan and enjoy doing many kinds of sports in my spare time, including tennis🎾, basketball🏀, soccer⚽️, waterpolo🤽‍♂️, swimming🏊, badminton🏸...
 - I love pop music and R&B, with Ed Sheeran and The Weeknd as my favorite English artists, David Tao and Khalil Fong as my favorite Chinese artists.
