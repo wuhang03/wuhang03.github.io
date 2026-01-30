@@ -32,7 +32,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
 
-# 🔥 News
+<!-- # 🔥 News
 - *2026.01*: One paper submitted to ICML 2026.
 - *2025.09*: Three papers submitted to ICLR 2026.
 - *2025.08*: 🎉🎉 Our paper DiMo-GUI has been accepted to EMNLP 2025 Main Conference!
@@ -40,7 +40,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 - *2025.05*: Two papers submitted to EMNLP 2025.
 - *2025.04*: Thrilled to accept PhD offer from UC Merced. Looking forward to working and living in CA!
 - *2025.03*: Join vivo as a Research Intern!
-- *2024.11*: One paper submitted to CVPR 2025.
+- *2024.11*: One paper submitted to CVPR 2025. -->
 
 
 
