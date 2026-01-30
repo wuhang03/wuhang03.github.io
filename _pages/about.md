@@ -56,7 +56,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
   </div>
   <div class='paper-box-text' markdown="1">
 
-CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning  [[Paper]()] [[Code](https://github.com/wuhang03/CamReasoner)]
+<strong>CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning</strong>  [[Paper]()] [[Code](https://github.com/wuhang03/CamReasoner)]
 
 **Hang Wu**, Yujun Cai$^{\dagger}$, Zehao Li, Haonan Ge, Bowen Sun, Junsong Yuan, Yiwei Wang
 
@@ -80,7 +80,7 @@ CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Re
   </div>
   <div class='paper-box-text' markdown="1">
 
-RefineShot: Rethinking Cinematography Understanding with Foundational Skill Evaluation [[Paper](https://www.arxiv.org/abs/2510.02423)] [[Code](https://github.com/wuhang03/RefineShot)]
+<strong>RefineShot: Rethinking Cinematography Understanding with Foundational Skill Evaluation</strong> [[Paper](https://www.arxiv.org/abs/2510.02423)] [[Code](https://github.com/wuhang03/RefineShot)]
 
 **Hang Wu**, Yujun Cai, Haonan Ge, Hongkai Chen, Ming-Hsuan Yang, Yiwei Wang$^{\dagger}$
 
@@ -123,7 +123,7 @@ RefineShot: Rethinking Cinematography Understanding with Foundational Skill Eval
   </div>
   <div class='paper-box-text' markdown="1">
 
-DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning [[Paper](https://arxiv.org/abs/2507.00008)] [[Code](https://github.com/vivo/DiMo-GUI)]
+<strong>DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning</strong> [[Paper](https://arxiv.org/abs/2507.00008)] [[Code](https://github.com/vivo/DiMo-GUI)]
 
 **Hang Wu**, Hongkai Chen$^{\dagger}$, Yujun Cai, Chang Liu, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
 
