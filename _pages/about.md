@@ -23,15 +23,6 @@ I am currently a first-year PhD student at the University of California, Merced,
 You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tNOCYlOXXq9uFjwZmn2hUCbU-wdg_udY/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
 
 
-# 🔥 News
-- *2025.09*: Three papers submitted to ICLR 2026.
-- *2025.08*: 🎉🎉 Our paper DiMo-GUI has been accepted to EMNLP 2025 Main Conference!
-- *2025.08*: Officially join UC Merced NLP Lab and start my PhD journey.
-- *2025.05*: Two papers submitted to EMNLP 2025.
-- *2025.04*: Thrilled to accept PhD offer from UC Merced. Looking forward to working and living in CA!
-- *2025.03*: Join vivo as a Research Intern!
-- *2024.11*: One paper submitted to CVPR 2025.
-
 # 🎓 Educations
 - *2025.08 - Present*,  PhD student, University of California, Merced.
 - *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
@@ -41,8 +32,45 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
 
+# 🔥 News
+- *2026.01*: One paper submitted to ICML 2026.
+- *2025.09*: Three papers submitted to ICLR 2026.
+- *2025.08*: 🎉🎉 Our paper DiMo-GUI has been accepted to EMNLP 2025 Main Conference!
+- *2025.08*: Officially join UC Merced NLP Lab and start my PhD journey.
+- *2025.05*: Two papers submitted to EMNLP 2025.
+- *2025.04*: Thrilled to accept PhD offer from UC Merced. Looking forward to working and living in CA!
+- *2025.03*: Join vivo as a Research Intern!
+- *2024.11*: One paper submitted to CVPR 2025.
+
+
+
 # 📝 Selected Publications 
 
+
+<!-- CamReasoner -->
+<div class='paper-box'>
+  <div class='paper-box-image' style="text-align: center;">
+    <div>
+      <img src='images/camreasoner.png' alt="sym" width="110%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning  [[Paper]()] [[Code](https://github.com/wuhang03/CamReasoner)]
+
+**Hang Wu**, Yujun Cai$^{\dagger}$, Zehao Li, Haonan Ge, Bowen Sun, Junsong Yuan, Yiwei Wang
+
+<strong>Arxiv 2026</strong>
+* **Structured Reasoning Paradigm**: We propose the Observation-Thinking-Answer (O-T-A) paradigm, reformulating camera movement understanding from black-box classification into a structured ego-motion inference task that decouples camera trajectories from dynamic scenes.
+
+* **Inference Trajectory Suite:** We construct a Large-scale Inference Trajectory Suite with 18k SFT and 38k RL samples, transforming static labels into dense reasoning chains to instill spatio-temporal cinematic logic into MLLMs.
+
+* **RL-driven Logical Alignment:** We are the **first to employ Reinforcement Learning** for logical alignment in this domain, achieving state-of-the-art 78.4% and 74.5% accuracy in binary classification and visual question answering tasks.
+</div>
+</div>
+
+
+<!-- RefineShot -->
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
     <div>
@@ -52,8 +80,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
   </div>
   <div class='paper-box-text' markdown="1">
 
-[RefineShot: Rethinking Cinematography Understanding with Foundational Skill Evaluation](https://www.arxiv.org/abs/2510.02423)
-
+RefineShot: Rethinking Cinematography Understanding with Foundational Skill Evaluation [[Paper](https://www.arxiv.org/abs/2510.02423)] [[Code](https://github.com/wuhang03/RefineShot)]
 
 **Hang Wu**, Yujun Cai, Haonan Ge, Hongkai Chen, Ming-Hsuan Yang, Yiwei Wang$^{\dagger}$
 
@@ -86,7 +113,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 </div> -->
 
 
-
+<!-- DiMo-GUI -->
 <div class='paper-box'>
   <div class='paper-box-image' style="text-align: center;">
     <div>
@@ -96,7 +123,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
   </div>
   <div class='paper-box-text' markdown="1">
 
-[DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning](https://wuhang03.github.io/DiMo-GUI-homepage/)
+DiMo-GUI: Advancing Test-time Scaling in GUI Grounding via Modality-Aware Visual Reasoning [[Paper](https://arxiv.org/abs/2507.00008)] [[Code](https://github.com/vivo/DiMo-GUI)]
 
 **Hang Wu**, Hongkai Chen$^{\dagger}$, Yujun Cai, Chang Liu, Qingwen Ye, Ming-Hsuan Yang, Yiwei Wang
 
