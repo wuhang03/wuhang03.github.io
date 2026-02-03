@@ -56,7 +56,7 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
   </div>
   <div class='paper-box-text' markdown="1">
 
-<strong>CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning</strong>  [[Paper]()] [[Code](https://github.com/wuhang03/CamReasoner)]
+<strong>CamReasoner: Reinforcing Camera Movement Understanding via Structured Spatial Reasoning</strong>  [[Paper](https://arxiv.org/abs/2602.00181)] [[Code](https://github.com/wuhang03/CamReasoner)]
 
 **Hang Wu**, Yujun Cai$^{\dagger}$, Zehao Li, Haonan Ge, Bowen Sun, Junsong Yuan, Yiwei Wang
 
@@ -184,6 +184,7 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 
 # 📖 Services
 <strong>Conference Reviewer</strong>
+- International Conference on Machine Learning (ICML) 2026
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
 - The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026
 
