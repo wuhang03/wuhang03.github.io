@@ -183,19 +183,19 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 
 
 # 📖 Services
-<strong>Conference Reviewer</strong>
-- International Conference on Machine Learning (ICML) 2026
-- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026
-- The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026
+<strong>Conference Review</strong>
+- Annual Meeting of the Association for Computational Linguistics (ACL) 2026, Area Chair
+- International Conference on Machine Learning (ICML) 2026, Reviewer
+- The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, Reviewer
+- The IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2026, Reviewer
 
 
 <strong>Teaching</strong>
-- CSE 188: Natural Language Processing, Teaching Assistant (Spring 2026, UC Merced).
+- CSE-188: Natural Language Processing, Teaching Assistant (Spring 2026, UC Merced).
 - CSE-022: Introduction to Programming, Teaching Assistant (Fall 2025, UC Merced).
 
 # 🎨 About Me
 
-- I'm ESFJ. 
 - I come from Maanshan, Anhui Province, China.
 - I'm a huge sports fan and enjoy doing many kinds of sports in my spare time, including tennis🎾, basketball🏀, soccer⚽️, waterpolo🤽‍♂️, swimming🏊, badminton🏸...
 - I love pop music and R&B, with Ed Sheeran and The Weeknd as my favorite English artists, David Tao and Khalil Fong as my favorite Chinese artists.
