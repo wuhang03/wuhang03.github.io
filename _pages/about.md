@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi there! My name is Hang Wu (吴杭), you can also call me by my English name Laurent.
 
-I am currently a first-year PhD student at the University of California, Merced, conducting research under the guidance of Prof. [Yiwei Wang](https://wangywust.github.io/), with Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/) as my senior advisor. Additionally, I work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field.
+I am currently a second-year PhD student at the University of California, Merced, conducting research under the advisory of Prof. [Yiwei Wang](https://wangywust.github.io/)and Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). I also work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field.
 
 You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tNOCYlOXXq9uFjwZmn2hUCbU-wdg_udY/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
 
@@ -28,7 +28,8 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 - *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
 
 # 💻 Internships
-- *2025.03 - 2025.07*, Research Intern, vivo@Shenzhen, China.
+- *2026.05 - 2026.09*, Research Intern in Robotics, Ant Research Institute@Ant Group.
+- *2025.03 - 2025.07*, Research Intern, vivo Mobile Communication Co., Ltd.
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
 - *2023.09 - 2025.03*, Research Intern, Ni's Group@Tongji University, Shanghai, China.
 
@@ -45,6 +46,29 @@ You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/f
 
 
 # 📝 Selected Publications 
+
+<!-- Savemem -->
+<div class='paper-box'>
+  <div class='paper-box-image' style="text-align: center;">
+    <div>
+      <img src='images/savemem.jpg' alt="sym" width="110%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+<strong>Semantic-Aware Adaptive Visual Memory for Streaming Video Understanding</strong>  [[Paper](https://arxiv.org/abs/2605.07897)] [[Code](https://github.com/wuhang03/savemem)]
+
+**Hang Wu**, Sherin Mary Mathews, Yujun Cai$^{\dagger}$, Ming-Hsuan Yang, Yiwei Wang
+
+<strong>Arxiv 2026</strong>
+* We present SAVEMem, a training-free dual-stage framework that introduces semantic priors into streaming compression and adapts the retrieval scope per query for online streaming video understanding.
+    
+* Applied to Qwen2.5-VL without training, SAVEMem improves over the backbones on three streaming benchmarks and compares favorably with recent training-free methods.
+    
+* Efficiency analysis shows sub-linear token growth and nearly flat peak GPU memory with respect to video length, reducing memory usage by 48\% at 128 frames over the backbone.
+</div>
+</div>
+
 
 
 <!-- CamReasoner -->
