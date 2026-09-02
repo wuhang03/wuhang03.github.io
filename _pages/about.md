@@ -23,12 +23,12 @@ I am currently a second-year PhD student at the University of California, Merced
 You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tNOCYlOXXq9uFjwZmn2hUCbU-wdg_udY/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
 
 
-# 🎓 Educations <img src="../images/university.png" alt="university" style="height:1em; vertical-align:middle;">
+# 🎓 Educations <img src="../images/university.png" alt="university" style="height:1.5em; vertical-align:middle;">
 
 - *2025.08 - Present*,  PhD student, University of California, Merced.
 - *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
 
-# 💻 Internships <img src="../images/company.png" alt="company" style="height:1em; vertical-align:middle;">
+# 💻 Internships <img src="../images/company.png" alt="company" style="height:1.5em; vertical-align:middle;">
 - *2026.05 - 2026.09*, Research Intern in Robotics, Ant Research Institute@Ant Group.
 - *2025.03 - 2025.07*, Research Intern, vivo Mobile Communication Co., Ltd.
 - *2025.01 - 2025.07*, Research Intern, UC Merced NLP Lab@University of California-Merced, Remote.
