@@ -28,8 +28,8 @@ You can find my CV here: [Hang_CV](https://drive.google.com/file/d/1lZ1qARcJhADt
   <img src="../images/university.png" alt="university" style="height:2.0em;">
 </h1>
 
-- *2025.08 - Present*,  PhD student, University of California, Merced.
-- *2021.09 - 2025.06*,  Undergraduate student, Tongji University.
+- *2025.08 - Present*,  PhD student in Computer Science, University of California, Merced.
+- *2021.09 - 2025.06*,  B.Eng in Software Engineering, Tongji University.
 
 <h1 style="display:flex; align-items:center; gap:8px;">
   💻 Internships
