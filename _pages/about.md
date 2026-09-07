@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi there! My name is Hang Wu (吴杭), you can also call me by my English name Laurent.
 
-I am currently a second-year PhD student at the University of California, Merced, conducting research under the advisory of Prof. [Yiwei Wang](https://wangywust.github.io/)and Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). I also work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field.
+I am currently a second-year PhD student at the University of California, Merced, conducting research under the advisory of Prof. [Yiwei Wang](https://wangywust.github.io/) and Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). I also work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field.
 
-You can find my CV here: [Hang Wu's Curriculum Vitae](https://drive.google.com/file/d/1tNOCYlOXXq9uFjwZmn2hUCbU-wdg_udY/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
+You can find my CV here: [Hang_CV](https://drive.google.com/file/d/1lZ1qARcJhADtJg21vrK7etnTbgNdE_fw/view?usp=sharing), [吴杭的简历](https://drive.google.com/file/d/11cGfJvX_6QXwNcNo3gGvyPEzs_aCf7eP/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
 
 
 <h1 style="display:flex; align-items:center; gap:8px;">
