@@ -20,7 +20,7 @@ Hi there! My name is Hang Wu (吴杭), you can also call me by my English name L
 
 I am currently a second-year PhD student at the University of California, Merced, conducting research under the advisory of Prof. [Yiwei Wang](https://wangywust.github.io/) and Prof. [Ming-Hsuan Yang](https://faculty.ucmerced.edu/mhyang/). I also work closely with Prof. [Yujun Cai](https://vanoracai.github.io/). My main research interests are in vision-language models and large multimodal models, with a focus on improving their performance and specific applications. I received my bachelor's degree from Tongji University, where I worked on image processing tasks in the low-level vision field.
 
-You can find my CV here: [Hang_CV](https://drive.google.com/file/d/1lZ1qARcJhADtJg21vrK7etnTbgNdE_fw/view?usp=sharing), [吴杭的简历](https://drive.google.com/file/d/11cGfJvX_6QXwNcNo3gGvyPEzs_aCf7eP/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
+You can find my CV here: [Hang_CV](https://drive.google.com/file/d/1tNOCYlOXXq9uFjwZmn2hUCbU-wdg_udY/view?usp=sharing), [个人简历_吴杭](https://drive.google.com/file/d/1MzlVCcsBVzqeXOQPQpNTAT_Vb8BeB6Qx/view?usp=sharing). If you are interested in my work, please feel free to drop me an email.
 
 
 <h1 style="display:flex; align-items:center; gap:8px;">
@@ -215,6 +215,7 @@ Chang Liu，Hongkai Chen$^{\dagger}$, Yujun Cai, **Hang Wu**, Qingwen Ye, Ming-H
 
 # 📖 Services
 <strong>Conference Review</strong>
+- International Conference on Learning Representations (ICLR) 2027, Reviewer
 - Annual Meeting of the Association for Computational Linguistics (ACL) 2026, Area Chair
 - International Conference on Machine Learning (ICML) 2026, Reviewer
 - The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026, Reviewer
